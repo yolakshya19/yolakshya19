@@ -29,7 +29,7 @@ Here are some ideas to get you started:
   </div>
   
   <h1>
-  Hi Techies
+  Hi Techies 
   <img src="https://media.giphy.com/media/3ohhwMDyS6rv3sB8yI/giphy.gif" width="45px"/>
   </h1>
 </div>
@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 - I am a Freshman <img src="https://media.giphy.com/media/gjxYwnMG7Mocmc75DM/giphy.gif" width="30"> pursuing CSE DATA SCIENCE.
 - :seedling: Exploring Web Development <img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="20">, C++ <img src="https://media.giphy.com/media/5Lmn42BCOy99RaGRP7/giphy.gif" width="20">, and Open Source 
 - :telescope: Preparing for Microsoft Engage and GSOC in 2023
-- :mailbox: How to reach me: 
+- :mailbox: Connect with me: 
 [![Linkedin Badge](https://img.shields.io/badge/-Lakshya-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/lakshya-dhawan-9561a8214/)
 [![Instagram Badge](https://img.shields.io/badge/-Lakshya-e25bf1?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/lakshya.9113/)
 
@@ -67,7 +67,9 @@ Here are some ideas to get you started:
 <div align="center">
   
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=yolakshya19&theme=dark&background=000000)](https://git.io/streak-stats)
-  
+
+[![Lakshya's GitHub stats](https://github-readme-stats.vercel.app/api?username=yolakshya19&theme=vision-friendly-dark&background=000000)](https://github.com/anuraghazra/github-readme-stats)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yolakshya19&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats) 
   
  <img src="https://komarev.com/ghpvc/?username=yolakshya19&style=flat-square&color=red" alt=""/>
