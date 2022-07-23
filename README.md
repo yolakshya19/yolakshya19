@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/XwBzLXzYq7ljHBXkHk/giphy.gif" width="100"/>
   <div id="badges">
-  <a href="linkedin.com/in/lakshya-dhawan-9561a8214">
+  <a href="https://www.linkedin.com/in/lakshya-dhawan-9561a8214/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://www.cloudskillsboost.google/public_profiles/de3c1bfc-2247-4302-befd-01edf09cb58e">
@@ -69,6 +69,8 @@ Here are some ideas to get you started:
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=yolakshya19&theme=dark&background=000000)](https://git.io/streak-stats)
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yolakshya19&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats) 
+  
+ <img src="https://komarev.com/ghpvc/?username=yolakshya19&style=flat-square&color=red" alt=""/>
 </div>
 
 
