@@ -30,7 +30,7 @@ Here are some ideas to get you started:
   <img src="https://komarev.com/ghpvc/?username=yolakshya19&style=flat-square&color=red" alt=""/>
   
   <h1>
-  Hey there
+  Hello Techies
   <img src="https://media.giphy.com/media/3ohhwMDyS6rv3sB8yI/giphy.gif" width="40px"/>
   </h1>
 </div>
