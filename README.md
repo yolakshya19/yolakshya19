@@ -35,9 +35,16 @@ Here are some ideas to get you started:
   </h1>
 </div>
 
-<div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-</div>
+
+### :joystick: About Me :
+
+- I am a Freshman <img src="https://media.giphy.com/media/gjxYwnMG7Mocmc75DM/giphy.gif" width="30"> pursuing CSE DATA SCIENCE.
+- :seedling: Exploring Web Development and C++ 
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Lakshya-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/lakshya-dhawan-9561a8214/)
+[![Instagram Badge](https://img.shields.io/badge/-Lakshya-e25bf1?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/lakshya.9113/)
+
+
+
 
 
 
