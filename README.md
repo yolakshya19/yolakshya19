@@ -27,5 +27,11 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
   </div>
+  <img src="https://komarev.com/ghpvc/?username=yolakshya19&style=flat-square&color=red" alt=""/>
+  
+  <h1>
+  Hey there
+  <img src="https://media.giphy.com/media/3ohhwMDyS6rv3sB8yI/giphy.gif" width="40px"/>
+  </h1>
 </div>
 
