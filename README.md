@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 ### :joystick: About Me :
 
 - I am a Freshman <img src="https://media.giphy.com/media/gjxYwnMG7Mocmc75DM/giphy.gif" width="30"> pursuing CSE DATA SCIENCE.
-- :seedling: Exploring Web Development <img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="20">, C++ <img src="https://media.giphy.com/media/5Lmn42BCOy99RaGRP7/giphy.gif" width="20">, and Open Source 
+- :seedling: Exploring Web Development <img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="20">, and Open Source 
 - :telescope: Preparing for Microsoft Engage and GSOC in 2023
 - :mailbox: Connect with me: 
 [![Linkedin Badge](https://img.shields.io/badge/-Lakshya-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/lakshya-dhawan-9561a8214/)
