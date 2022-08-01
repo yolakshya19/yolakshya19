@@ -23,7 +23,7 @@ Here are some ideas to get you started:
   <a href="https://www.cloudskillsboost.google/public_profiles/de3c1bfc-2247-4302-befd-01edf09cb58e">
     <img src="https://img.shields.io/badge/Qwiklabs-yellow?style=for-the-badge&logo=qwiklabs&logoColor=white" alt="Qwiklabs Badge"/>
   </a>
-  <a href="https://twitter.com/LakshyaD_19">
+  <a href="https://twitter.com/LDhawan19">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
   </div>
