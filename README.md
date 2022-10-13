@@ -74,7 +74,6 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yolakshya19&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats) 
   
  <img src="https://komarev.com/ghpvc/?username=yolakshya19&style=flat-square&color=red" alt=""/>
- [![@yolakshya19's Holopin board](https://holopin.me/yolakshya19)](https://holopin.io/@yolakshya19)
 </div>
 
 
