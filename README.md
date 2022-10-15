@@ -44,7 +44,6 @@ Here are some ideas to get you started:
 - :mailbox: Connect with me: 
 [![Linkedin Badge](https://img.shields.io/badge/-Lakshya-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/lakshya-dhawan-9561a8214/)
 [![Instagram Badge](https://img.shields.io/badge/-Lakshya-e25bf1?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/lakshya.9113/)
-[![@yolakshya19's Holopin board](https://holopin.me/yolakshya19)](https://holopin.io/@yolakshya19)
 <hr>
 
 ### :rocket: Languages and Tools :
@@ -59,6 +58,9 @@ Here are some ideas to get you started:
   <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg" title="Jupyter" alt="Jupyter" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+  <br>
+  
+  [![@yolakshya19's Holopin board](https://holopin.me/yolakshya19)](https://holopin.io/@yolakshya19)
 </div>
 
 ---
