@@ -44,7 +44,7 @@ Here are some ideas to get you started:
 - :mailbox: Connect with me: 
 [![Linkedin Badge](https://img.shields.io/badge/-Lakshya-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/lakshya-dhawan-9561a8214/)
 [![Instagram Badge](https://img.shields.io/badge/-Lakshya-e25bf1?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/lakshya.9113/)
-
+[![@yolakshya19's Holopin board](https://holopin.me/yolakshya19)](https://holopin.io/@yolakshya19)
 <hr>
 
 ### :rocket: Languages and Tools :
