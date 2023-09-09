@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 ### :joystick: About Me :
 
-- I am a Sophomore <img src="https://media.giphy.com/media/gjxYwnMG7Mocmc75DM/giphy.gif" width="30"> pursuing CSE DATA SCIENCE.
+- I am a third-year student <img src="https://media.giphy.com/media/gjxYwnMG7Mocmc75DM/giphy.gif" width="30"> pursuing CSE DATA SCIENCE.
 - :seedling: Exploring Web Development <img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="20">, and Open Source 
 - :telescope: Preparing for Microsoft Engage and GSOC in 2023
 - :robot: Would love to collaborate on projects related to the same
