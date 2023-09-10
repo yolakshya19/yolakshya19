@@ -35,18 +35,18 @@ Here are some ideas to get you started:
 </div>
 
 
-### :joystick: About Me :
+## :joystick: About Me :
 
 - I am a third-year student <img src="https://media.giphy.com/media/gjxYwnMG7Mocmc75DM/giphy.gif" width="30"> pursuing CSE DATA SCIENCE.
-- :seedling: Exploring Web Development <img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="20">, and Open Source 
-- :telescope: Preparing for Microsoft Engage and GSOC in 2023
+- :seedling: Learning DSA in Java <img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="20">, and exploring Data Science <img src="https://media.giphy.com/media/QpyF0jsO26GWKTWctv/giphy.gif" width="20">
 - :robot: Would love to collaborate on projects related to the same
 - :mailbox: Connect with me: 
-[![Linkedin Badge](https://img.shields.io/badge/-Lakshya-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/lakshya-dhawan-9561a8214/)
-[![Instagram Badge](https://img.shields.io/badge/-Lakshya-e25bf1?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/lakshya.9113/)
+[![Leetcode Badge](https://img.shields.io/badge/-Lakshya-orange?style=for-the-code&logo=Leetcode&logoColor=black)](https://leetcode.com/lakshyad1902/)
+[![CodeChef Badge](https://img.shields.io/badge/-Lakshya-green?style=for-the-code&logo=CodeChef&logoColor=black)](https://www.codechef.com/users/yolakshya19)
+[![Hackerrank Badge](https://img.shields.io/badge/-Lakshya-pink?style=for-the-code&logo=Hackerrank&logoColor=black)](https://www.hackerrank.com/CSDSB_21B1541003)
 <hr>
 
-### :rocket: Languages and Tools :
+## :rocket: Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
@@ -57,7 +57,9 @@ Here are some ideas to get you started:
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="Cpp"  alt="Cpp" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg" title="Jupyter" alt="Jupyter" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" title="Figma" **alt="Figma" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" title="RStudio" **alt="Rstudio" width="40" height="40"/>&nbsp;
   <br>
   
   [![@yolakshya19's Holopin board](https://holopin.me/yolakshya19)](https://holopin.io/@yolakshya19)
@@ -65,7 +67,7 @@ Here are some ideas to get you started:
 
 ---
 
-### :trophy: My Stats :
+## :trophy: My Stats :
 
 <div align="center">
   
@@ -75,10 +77,11 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yolakshya19&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats) 
   
- <img src="https://komarev.com/ghpvc/?username=yolakshya19&style=flat-square&color=red" alt=""/>
+ <img src="https://komarev.com/ghpvc/?username=yolakshya19&style=flat-square&color=red" alt=""/> 
+<br>
+ <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yolakshya19" alt="yolakshya19" /></a>
 </div>
 
-<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yolakshya19" alt="yolakshya19" /></a>
 
 
 
