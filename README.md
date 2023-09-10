@@ -78,8 +78,7 @@ Here are some ideas to get you started:
  <img src="https://komarev.com/ghpvc/?username=yolakshya19&style=flat-square&color=red" alt=""/>
 </div>
 
-
-
+<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yolakshya19" alt="yolakshya19" /></a>
 
 
 
