@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 ## :joystick: About Me :
 
 - I am a third-year student <img src="https://media.giphy.com/media/gjxYwnMG7Mocmc75DM/giphy.gif" width="30"> pursuing CSE DATA SCIENCE.
-- :seedling: Learning DSA in Java <img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="20">, and exploring Data Science <img src="https://media.giphy.com/media/QpyF0jsO26GWKTWctv/giphy.gif" width="20">
+- :seedling: Learning DSA in Java <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTJvOGN1NzBxZmltenc2MHAxNGU1N2ZuMzh4MTV5dDEwMXZmNmE3diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/kje0rsDyVEMEzQLPol/giphy.gif" width="25">, MERN Full Stack <img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="20"> and exploring Data Science <img src="https://media.giphy.com/media/QpyF0jsO26GWKTWctv/giphy.gif" width="20">
 - :robot: Would love to collaborate on projects related to the same
 - :mailbox: Connect with me: 
 [![Leetcode Badge](https://img.shields.io/badge/-Lakshya-orange?style=for-the-code&logo=Leetcode&logoColor=black)](https://leetcode.com/lakshyad1902/)
